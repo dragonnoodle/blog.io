@@ -1,23 +1,26 @@
-## 说明
+# Hospitalweb
+一个医院门户网站的前端设计与实现。主要使用了Bootstrap，适配移动端和PC端。
 
-此博客模板 Fork 自仓库：[cnfeat/blog.io: 简单直接可用博客模板](https://github.com/cnfeat/blog.io)
+## 包含模块
+* 首页
+* 登录注册
+* 医院概括
+* 医疗团队
+* 新闻中心
+* 就医指南
+* 健康教育
+* 科室医生搜索
+* 个人中心
+* 我要预约
+* 最近预约记录
+* 基本信息
+* 修改密码
 
-配套说用说明：[如何搭建一个独立博客——简明 GitHub Pages与 jekyll 教程 - 读立写生](http://www.cnfeat.com/blog/2014/05/10/how-to-build-a-blog/)
-
-## 博客模板修订清单
-
-文档内有详细注释，可按注释逐个修订
-
-* 博客名字、作者信息、浏览器小图标等：_config.yml 
-* 个人介绍页面：about.md
-* 代表作页面：milestone.md
-* 文章模板：blog.io/_posts/2015-03-02-how-to-write.md 
-* 
-
-## 模板作者
-
-陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
-
-联系方式：cnfeat@gmail.com
-
-
+## 部分页面展示
+网站主页 | 新闻中心
+------|------
+![](./showpic/1.png) | ![](./showpic/3.png)
+就医指南 | 预约挂号
+![](./showpic/5.png) | ![](./showpic/7.png)
+网站主页（移动端） | 健康教育（移动端）
+![](./showpic/2.jpg) | ![](./showpic/4.jpg)
